@@ -49,9 +49,6 @@ pip package manager
 
 Required Libraries:
 bashpip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
-Clone Repository
-bashgit clone https://github.com/yourusername/customer-churn-prediction.git
-cd customer-churn-prediction
 
 View results: Check the outputs folder for generated visualizations and reports
 
