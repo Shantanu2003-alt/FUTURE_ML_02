@@ -1,4 +1,5 @@
 # FUTURE_ML_02
+This project is part of a Machine Learning internship task provided by the organization Future Interns.
 Customer Churn Prediction System:
 A machine learning system that predicts customer churn using XGBoost, Random Forest, and Logistic Regression, achieving about 83% accuracy with visualizations for actionable customer retention insights.
 
